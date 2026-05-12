@@ -1,0 +1,2 @@
+# Sales-Trends-Product-Performance-Analytics-Tableau
+This project focuses on identifying growth opportunities and operational inefficiencies within a retail environment through interactive data visualization. Using Tableau, I developed a comprehensive dashboard that tracks key sales metrics over time, allowing stakeholders to identify seasonal peaks and evaluate the success of specific product lines.
